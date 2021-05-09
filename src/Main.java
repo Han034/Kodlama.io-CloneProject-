@@ -3,11 +3,11 @@ public class Main {
 	//FTL = For The Layout
 	public static void main(String[] args) {
 		String lineup = "#-----COURSES------#";
-		Courses course1 = new Courses(1,"Yazılım Geliştirici Yetiştirme Kampı C#",0,"Dont repeat ur self :)","Engin Demiroğ");
-		Courses course2 = new Courses(2,"Yazılım Geliştirici Yetiştirme Kampı JAVA",0,"SOLİD :)","Engin Demiroğ");
-		Courses course3 = new Courses(3,"Programlamaya giriş için temel kurs",0,"Dont give up :)","Engin Demiroğ");
+		Courses course1 = new Courses(1,"Yazilim Gelistirici Yetistirme Kampi C#",0,"Dont repeat ur self :)","Engin Demirog");
+		Courses course2 = new Courses(2,"Yazilim Gelistirici Yetistirme Kampi JAVA",0,"SOLÃD :)","Engin Demirog");
+		Courses course3 = new Courses(3,"Programlamaya giris iÃ§in temel kurs",0,"Dont give up :)","Engin Demirog");
 		
-		Categories categories1 = new Categories("Tümü");
+		Categories categories1 = new Categories("TÃ¼mÃ¼");
 		Categories categories2 = new Categories("Programlama");
 	
 		String lineup2 = "/-----CATEGORIES------/";//FTL
