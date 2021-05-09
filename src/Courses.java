@@ -2,7 +2,7 @@
 public class Courses {
 	
 	public Courses() {
-		System.out.println("Kursa Katýlýyorsun :) " );
+		System.out.println("Kursa Katiliyorsun :) " );
 	}
 	
 	public Courses(int id,String name,double unitPrice,String detail,String teacher) {
